@@ -34,10 +34,11 @@ Like all the projects related to machine learning that I have undertaken in the 
 real-life applications, since it can enhance the environmental impact that bike-sharing companies have on the environment by facilitating growth strategies that minimize the environmental footprint of the companies while at the same time maximizing the value to customers of these companies. 
 
 3. **File Descriptions**
-
-	1. **Data (folder)**:
   
       1. **Bike_Data (folder)**:
+			
+				 1. *day.csv*: CSV file containing daily bike usage counts (of company) in Washington, D.C., for the years 2011 and 2012.
+				 2. *hour.csv*: CSV file containing hourly bike usage counts (of company) in Washington, D.C., for the years 2011 and 2012.
       
       2. **Oil_Data (folder)**:
           
