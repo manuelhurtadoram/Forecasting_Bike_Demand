@@ -3,6 +3,11 @@ This Capstone project of the Udacity Data Scientist Nanodegree Program builds a 
 
 The aim of this project is to develop a model that allows these companies to better optimize their resource allocation by better predicting aggregate trends in bike usage, and therefore remaining more competitive and environmentally sustainable during growth. 
 
+The Medium blog post I wrote detailing the project journey can be found at: 
+
+https://medium.com/@manuelhurtadoram/forecasting-demand-for-bike-sharing-systems-feffac0fb407
+
+
 (1) The bike-to-car ratio is actually the ratio of company bikes used to cars in Washington, D.C. However, for the purpose of simplicity, the 'bike-to-car' term has been employed instead.
 
 
@@ -34,9 +39,6 @@ real-life applications, since it can enhance the environmental impact that bike-
   
       1. **Bike_Data (folder)**:
       
-          1. *day.csv*: CSV file containing daily bike usage counts (of provider company) for Washington, D.C., in 2011 and 2012.
-          2. *hour.csv*: CSV file containing hourly bike usage counts (of provider company) for Washington, D.C., in 2011 and 2012.
-      
       2. **Oil_Data (folder)**:
           
           1. *wti-daily.csv*: CSV file containing daily WTI oil quotes for mid 1990s through 2018.
@@ -49,6 +51,8 @@ real-life applications, since it can enhance the environmental impact that bike-
       
           1. *best_mlp_daily.best.hdf5*: Best weights for Multi-Layer Perceptron trained on daily dataset.
           2. *best_mlp_hourly.best.hdf5*: Best weights for Multi-Layer Perceptron trained on daily dataset.
+					
+	2. **Forecasting_Bike_Demand.ipynb**: Notebook with project code.
 		
 4. **Acknowledgements**
 
